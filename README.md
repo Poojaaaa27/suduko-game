@@ -1,1 +1,2 @@
-# suduko-
+# suduko
+This project is an implementation of a Sudoku generator and solver using C. Using a backtracking technique, the computer can solve any legal Sudoku puzzle. It can also create new Sudoku puzzles with different levels of difficulty. The problem input, validation, solving, and output functions are divided into separate functions in the code. To utilize the program, just execute the executable after compiling the source code with a C compiler and enter the required data to create or solve a Sudoku problem. Contributions are welcome, as the project is meant to serve as a learning exercise in C programming and algorithm design.
